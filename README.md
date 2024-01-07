@@ -1,16 +1,15 @@
-# Gamming Project with mui 
+# Just a Calculator
 
 
 
 **Enjoy code**
  
-Developed Just for Fun and playing with bootstrap and Material UI
-
+Developed Just for Fun and playing with React
 ## Learn More
 
 This project fully work with local storage without Back-end
 
-Just a Few Card to play with
+Enjoy
 
  
 
